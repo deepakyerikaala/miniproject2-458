@@ -32,8 +32,8 @@ This C program implements a binary tree with various operations, including inser
 MIT License
 ## Outputs : 
     1
-   / \
-  2   3
+   /  \
+  2    3
    \
     4
      \
