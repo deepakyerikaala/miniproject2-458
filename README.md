@@ -32,10 +32,10 @@ This C program implements a binary tree with various operations, including inser
 MIT License
 ## Outputs : 
     1
-   / \
-  2   3
-   \
-    4
-     \
-      5
+   /  \
+  2    3 
+   \ 
+    4 
+     \  
+      5 
 
